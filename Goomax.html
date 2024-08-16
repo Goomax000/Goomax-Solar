@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -137,7 +137,7 @@
     </section>
     <section class="contact-form" id="contact">
         <h2>contact us now!</h2>
-        <p>Whatsapp/Wechat: +86 15080174653</p>
+        <p>Whatsapp/Wechat: +86 17310320513</p>
         <p>Email: sales97@goomaxsolar.com</p>
         <p>Address: Office: 17/F, Building 1, Electronics City International Innovation Center, Jimei
 District, Xiamen, China </p>
